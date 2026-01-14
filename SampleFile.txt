@@ -1,5 +1,6 @@
-First file, Name changed earlier.
-2nd line, updated file name.   
+First file, On branch bugfix. Name changed earlier.
 Oh, fun times using VS code.
+and lines added under bugfix branch.
+We will merge this with main branch shortly.
 Now on Branch Feature, we adding this line.
 
