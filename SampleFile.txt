@@ -1,3 +1,5 @@
-First file, unnammed yet.   More to follow.
+First file, On branch bugfix.
 2nd line, updated file name.   
 Oh, fun times using VS code.
+and lines added under bugfix branch.
+We will merge this with main branch shortly.
